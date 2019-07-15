@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/**  
+* Theme Name: one 
+* Author: Pavel Sekihov
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
